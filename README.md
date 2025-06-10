@@ -31,7 +31,7 @@ Graph characteristics are calculated in `extract_steps/your_model/dataset_name/t
 
 * To cite our paper:
     ```
-@misc{minegishi2025topologyreasoningunderstandinglarge,
+    @misc{minegishi2025topologyreasoningunderstandinglarge,
       title={Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties}, 
       author={Gouki Minegishi and Hiroki Furuta and Takeshi Kojima and Yusuke Iwasawa and Yutaka Matsuo},
       year={2025},
@@ -39,5 +39,5 @@ Graph characteristics are calculated in `extract_steps/your_model/dataset_name/t
       archivePrefix={arXiv},
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/2506.05744}, 
-}
+    }
     ```
