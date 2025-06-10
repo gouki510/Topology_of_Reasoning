@@ -1,0 +1,15 @@
+accelerate
+transformers
+sentencepiece
+datasets
+wandb
+torch >= 2.0.1
+peft
+sentence_transformers
+bitsandbytes
+optimum
+nltk
+matplotlib
+scikit-learn
+einops
+vllm
