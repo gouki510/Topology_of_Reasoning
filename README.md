@@ -8,6 +8,7 @@ This is the official reposaitory for paper [Topology of Reasoning: Understanding
 
 ```bash
 docker build -t topology-of-reasoning .
+pip install -r requirements.txt
 ```
 
 ## Evaluation
